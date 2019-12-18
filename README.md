@@ -1,2 +1,19 @@
 # Stock_Analysis
-Pass the Ticker of the stock you want to analyse 
+This script let's you download and analyse the stock you want with a minor forecast using Random Forest Generator.
+
+To use it, pass the ticker of the stock you want to analyse.
+
+The data of that stock will get downloaded and information on the stock split will be provided.
+![Split](https://user-images.githubusercontent.com/44964331/71069203-3d95d380-219e-11ea-91a6-0cb6e9f6c33d.png)
+
+After this an interactive graph of the stock with respect to time will be provided.
+![All_plots](https://user-images.githubusercontent.com/44964331/71069214-438bb480-219e-11ea-9b2c-08461883aa82.png)
+This graphs includes the plot of Open, high, low, close and moving average of the stock over the years.
+
+After closing this, a Candle stick graph with volume of stocks sold will be provided.
+![Candle_Stick](https://user-images.githubusercontent.com/44964331/71069403-a9783c00-219e-11ea-8ef3-8b14b12e126b.png)
+This is also interactive.
+![Candle_stick_zoomed](https://user-images.githubusercontent.com/44964331/71069289-6b7b1800-219e-11ea-8462-730ca4e61527.png)
+
+At last, a 7 day prediction will be plotted.
+![Forecast](https://user-images.githubusercontent.com/44964331/71069460-cc0a5500-219e-11ea-94f3-9ae0e6b88a4f.png)
