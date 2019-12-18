@@ -1,0 +1,6 @@
+numpy
+pandas
+matplotlib
+mpl_finance
+pandas_datareader
+scikit-learn
