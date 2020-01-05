@@ -1,5 +1,5 @@
 # Stock_Analysis
-This script let's you download and analyse the stock you want with a minor forecast using Random Forest Generator.
+This script let's you download and analyse the information for the stock you want with a minor forecast using Random Forest Generator.
 
 
 To use it:
